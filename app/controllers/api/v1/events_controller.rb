@@ -1,6 +1,6 @@
 module Api
     module V1
-        class CommentsController < ApplicationController
+        class EventsController < ApplicationController
             
         end
     end
